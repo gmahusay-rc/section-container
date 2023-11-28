@@ -1,0 +1,37 @@
+@font-face {
+    font-family: 'beautiful_freakbold';
+    src: url('../fonts/beautiful-freak-webfont.woff2') format('woff2'),
+         url('../fonts/beautiful-freak-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'sofiapro-light';
+    src: url('../fonts/sofiapro-light-webfont.woff2') format('woff2'),
+         url('../fonts/sofiapro-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: "sofiapro";
+    src: url("../fonts/sofiapro.eot");
+    src: url("../fonts/sofiapro.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/sofiapro.woff2")format("woff2"),
+    url("../fonts/sofiapro.woff")format("woff"),
+    url("../fonts/sofiapro.ttf")format("truetype"),
+    url("../fonts/sofiapro.svg#SofiaPro")format("svg");
+}
+
+@font-face {
+    font-family: "sofiapro-black";
+    src: url("../fonts/sofiapro-black.eot");
+    src: url("../fonts/sofiapro-black.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/sofiapro-black.woff2")format("woff2"),
+    url("../fonts/sofiapro-black.woff")format("woff"),
+    url("../fonts/sofiapro-black.ttf")format("truetype"),
+    url("../fonts/sofiapro-black.svg#SofiaPro")format("svg");
+}

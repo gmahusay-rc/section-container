@@ -1,0 +1,17 @@
+.section-brand .desktop-view {
+    display: block;
+}
+
+.section-brand .mobile-view {
+    display: none;
+}
+
+@media (max-width: 851px) {
+    .section-brand .desktop-view {
+        display: none;
+    }
+
+    .section-brand .mobile-view { 
+        display: block;
+    }
+}
